@@ -37,11 +37,11 @@ body {
 .navbar-inverse {
     background-color: #e5f9ff;
     border-color: #e5f9ff;
-    font-family: Adelle;
+    font-family: 'adelle-1', 'adelle-2', Georgia, serif;
     font-size: 18px;
     -webkit-box-shadow: 0px -8px 24px 7px rgba(0,0,0,0.75);
-	-moz-box-shadow: 0px -8px 24px 7px rgba(0,0,0,0.75);
-	box-shadow: 0px -8px 24px 7px rgba(0,0,0,0.75);
+	  -moz-box-shadow: 0px -8px 24px 7px rgba(0,0,0,0.75);
+	  box-shadow: 0px -8px 24px 7px rgba(0,0,0,0.75);
 }
 
 .navbar-brand {
