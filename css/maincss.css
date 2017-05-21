@@ -30,13 +30,18 @@ body {
 /* Navbar Styles */
 
 #navbar-main {
-    padding: 3px;
+    padding: 0px;
+}
+
+#ahover:hover{
+    background-color: #b9e9f7;
 }
 
 /*Adelle, Varsity Script*/
-.navbar-inverse {
+.navbar {
     background-color: #e5f9ff;
-    border-color: #e5f9ff;
+    /*border-color: #e5f9ff;*/
+    border: 0;
     font-family: 'adelle-1', 'adelle-2', Georgia, serif;
     font-size: 18px;
     -webkit-box-shadow: 0px -8px 24px 7px rgba(0,0,0,0.75);
