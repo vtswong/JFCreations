@@ -30,14 +30,18 @@ body {
 /* Navbar Styles */
 
 #navbar-main {
-    padding: 15px;
+    padding: 3px;
 }
 
+/*Adelle, Varsity Script*/
 .navbar-inverse {
     background-color: #e5f9ff;
     border-color: #e5f9ff;
-    font-family: "Cabin","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Adelle;
     font-size: 18px;
+    -webkit-box-shadow: 0px -8px 24px 7px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px -8px 24px 7px rgba(0,0,0,0.75);
+	box-shadow: 0px -8px 24px 7px rgba(0,0,0,0.75);
 }
 
 .navbar-brand {
