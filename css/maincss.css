@@ -53,6 +53,10 @@ body {
     font-size: 24px;
 }
 
+.dropdown-menu {
+    background-color: #e5f9ff;
+}
+
 /* Home Page Carousel */
 
 header.carousel {
